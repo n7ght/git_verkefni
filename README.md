@@ -40,3 +40,9 @@
 	a) Working directroy er directoryið með "source" fælonum þínum undir git stjórn (í rót allra directoryiana þar sem .git file er til staðar). Git er að tracka breytingar á milli "your working directory" og þinni "local repository, og á milli þinni "local repository og (einni af) "remote repositories".
 	b) Staging area er fæll, algent geymdur í Git directoryinu þínu, sem geimir upplýsingar um hvað mun fara í næsta commit, Það er stundum kallað "index-ið", enn er líka algengt að kalla það "staging area".
 	c) Tilgangurinn með Git er að halda utan um verkefni, eða set af fælum, meðan þær breytast yfir tíma. Git geymir upplýsingar í gagnabyggingu kallað "repository".
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+
+	segjum að þú sért að vinna á ritgerð. Þú ert búinn að skrifa fyrsta uppkast, til sýningar fyrir yfirferð. Svo færðu nýjar upplýsingar og þú ert að setja það inn í ritgerðina. Hálfa leiðina hinsvegar er hringt í þig og sagt við þig að þú verðir að breyta hlutum sem voru ekki alveg réttir hjá þér eða rétt uppbygðir, hvað geriru ?
+	greinilega viltu ekki senda þeim hálf bökuðu revisioninu þínum sem er með réttri uppbygingu. Það sem þú vilt gera er að hoppa til baka í útgáfuna sem þú sendir út, breyta uppsetinguni, og senda burt afrit, á meðan þú heldur í núverandi vinnuna þýna sem var vel geymd annarstaðar.
+	þetta er hugmyndinn um "branching", og Git gerir það auðvelt.
