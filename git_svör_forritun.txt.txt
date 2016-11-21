@@ -47,3 +47,5 @@
 	segjum að þú sért að vinna á ritgerð. Þú ert búinn að skrifa fyrsta uppkast, til sýningar fyrir yfirferð. Svo færðu nýjar upplýsingar og þú ert að setja það inn í ritgerðina. Hálfa leiðina hinsvegar er hringt í þig og sagt við þig að þú verðir að breyta hlutum sem voru ekki alveg réttir hjá þér eða rétt uppbygðir, hvað geriru ?
 	greinilega viltu ekki senda þeim hálf bökuðu revisioninu þínum sem er með réttri uppbygingu. Það sem þú vilt gera er að hoppa til baka í útgáfuna sem þú sendir út, breyta uppsetinguni, og senda burt afrit, á meðan þú heldur í núverandi vinnuna þýna sem var vel geymd annarstaðar.
 	þetta er hugmyndinn um "branching", og Git gerir það auðvelt.
+
+	Kiddiiiiiiiiiiiiiiiii
