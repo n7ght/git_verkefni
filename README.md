@@ -21,3 +21,7 @@
 	a) git diff 			Show changes between commits, commit and working tree, etc      (Sýnir breytingar á milli commits, working tree osfr)
 	b) git diff --staged 		Can also be "--cached" shows changes to next commitment         (Getur líka verið kallað "--cached", sýnir breytingar á næsta commitment)
 	c) git diff commit1 commit2	Saves the file so later it can be loaded			(Vistar fæl svo hann geti verið loadað seinna)
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	
+	Version control er kerfi sem skráir breytingar á file eða file-um yfir tíma svo þú getir aftur kallað sérstakar útgáfur seinna.
