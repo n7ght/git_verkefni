@@ -29,3 +29,8 @@
 5.	Hverjir eru helstu kostir við að nota GIT?
 	
 	Helstu kostir breytast með umhverfum og það er ekki eitt satt svar, enn á sama tíma, það er hratt og skilvirkt, getur stokkið framm og aftur í tíman og þar með ekki brennt þig og tapað allri vinnuni þinni.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu
+
+	Hvenar sem ég hef eitthvað sem virkar (meinandi, eitthvað sem bilar ekki fyrir aðra) þá geri ég check-in. Ég skrifa mest af mínu stuff-i og testa fyrst, svo eftir hverja keyrslu sem gengur á t.d. C++ verkefni, þá check-a ég inn.
+	(vanarlega nokkrum sinnum á hverjum klukkutíma)
