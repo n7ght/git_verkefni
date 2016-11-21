@@ -34,3 +34,9 @@
 
 	Hvenar sem ég hef eitthvað sem virkar (meinandi, eitthvað sem bilar ekki fyrir aðra) þá geri ég check-in. Ég skrifa mest af mínu stuff-i og testa fyrst, svo eftir hverja keyrslu sem gengur á t.d. C++ verkefni, þá check-a ég inn.
 	(vanarlega nokkrum sinnum á hverjum klukkutíma)
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+	a) Working directroy er directoryið með "source" fælonum þínum undir git stjórn (í rót allra directoryiana þar sem .git file er til staðar). Git er að tracka breytingar á milli "your working directory" og þinni "local repository, og á milli þinni "local repository og (einni af) "remote repositories".
+	b) Staging area er fæll, algent geymdur í Git directoryinu þínu, sem geimir upplýsingar um hvað mun fara í næsta commit, Það er stundum kallað "index-ið", enn er líka algengt að kalla það "staging area".
+	c) Tilgangurinn með Git er að halda utan um verkefni, eða set af fælum, meðan þær breytast yfir tíma. Git geymir upplýsingar í gagnabyggingu kallað "repository".
