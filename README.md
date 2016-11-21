@@ -25,3 +25,7 @@
 4. 	Hvað er útgáfustýring (e.version control)? 
 	
 	Version control er kerfi sem skráir breytingar á file eða file-um yfir tíma svo þú getir aftur kallað sérstakar útgáfur seinna.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+	
+	Helstu kostir breytast með umhverfum og það er ekki eitt satt svar, enn á sama tíma, það er hratt og skilvirkt, getur stokkið framm og aftur í tíman og þar með ekki brennt þig og tapað allri vinnuni þinni.
